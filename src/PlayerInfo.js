@@ -8,7 +8,7 @@ function PlayerInfo(props) {
     <div>
       <h3>{props.match.params.playerId}</h3>
       <h4>
-         (Where I want be able to access props from player map in app to load)
+         (This is where I want be able to access props from player map in app)
       </h4>
     </div>
   );
